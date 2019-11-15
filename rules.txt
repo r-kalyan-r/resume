@@ -1,0 +1,7 @@
+1.cd \
+2.dir
+3.cd java tut
+4.dir
+5.javac xyz.java
+6.dir
+7.class name ex(java data
